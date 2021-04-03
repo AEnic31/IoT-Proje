@@ -1,0 +1,1 @@
+Kodlama yaparken prototipteki led pinlerini "OUTPUT" olarak ayarlamayı unuttuğum için ledler tam güçte yanmıyordu. Düzeltilen kodlarla birlikte ledler düzgün bir şekilde yanıyor.
